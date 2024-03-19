@@ -1,4 +1,5 @@
 local Secret = loadstring(game:HttpGet(('https://raw.githubusercontent.com/Aummy770X/GUI_EDIT/main/Secret.lua')))()
+-- bấm ctr+r+/
 
 local CreateWindow = Secret:CreateWindow({Name = "Name Hub", Theme = "Secret", SizeX = 500, SizeY = 600, ColorOverrides = {}})
 local Genaral = CreateWindow:AddTab("Genaral")
